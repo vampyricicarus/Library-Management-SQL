@@ -1,0 +1,1 @@
+To create a better user interface for this project we use queries and cursors to connect with a database on sql. First, we took the code from a previous library management project and then we used our sql database to modify it
